@@ -38,7 +38,7 @@ This contains all Medication and Drone read and write operations. All read and w
   * `DroneReadPlatformService.java` //Drone read operation interface
   * `DroneReadPlatformServiceImpl.java` // Implementation of drone read interface
   * `DroneWritePlatformService.java` // Drone write operation interface
-  *   `DroneWritePlatformServiceImpl.java` // Implementation of drone write interface
+  * `DroneWritePlatformServiceImpl.java` // Implementation of drone write interface
   * Medication R&W etc
 
 ### Utils
