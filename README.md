@@ -2,7 +2,7 @@
 
 A is a Java Spring Boot project to handle drone medication loading and unloading.
 The project was developed by Elirehema Paul from 29 Nov 2022 to 30 Nov 2022
- ---
+
 ### Project structure
 * musala.project.drone
   * api
